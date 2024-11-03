@@ -579,9 +579,9 @@ async def get_data(data_file, proxy_file):
 
 async def main():
     banner = f"""
-{magenta} _____ __    _____ _____  {white}BLUM AUTO TASK AND PLAY GAME BOT {green}X HACKER WORLD BD
-{magenta}| __  |  |  |  |  |     | {green}Author : {white}HACKER WORLD BD
-{magenta}| __ -|  |__|  |  | | | | {white}Telegram : {green}https://t.me/HACKER_WORLD_BD
+{magenta} _____ __    _____ _____  {white}BLUM AUTO TASK AND PLAY GAME BOT {green}X DARK LIFE
+{magenta}| __  |  |  |  |  |     | {green}Author : {white}@iamak_roy
+{magenta}| __ -|  |__|  |  | | | | {white}Telegram : {green}https://t.me/scripthub00
 {magenta}|_____|_____|_____|_|_|_| {green}Note : {white}MUST SUBSCRIBE MY TELEGRAM CHANNEL
         """
     arg = argparse.ArgumentParser()
