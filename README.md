@@ -102,7 +102,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/HACKERWORLDBD/Blum-New.git
+   git clone https://github.com/Mittyadav/Blum-New.git
    ```
 
 3. Enter the BlumCum folder
@@ -139,7 +139,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/HACKERWORLDBD/Blum-New.git
+   git clone https://github.com/Mittyadav/Blum-New.git
    ```
 
 3. Enter the BlumCum folder
@@ -176,7 +176,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 2. Clone this repository.
    ```shell
-   git clone https://github.com/HACKERWORLDBD/Blum-New.git
+   git clone https://github.com/Mittyadav/Blum-New.git
    ```
 
 3. Enter the BlumCum folder
