@@ -181,7 +181,7 @@ Please pay close attention to whether the proxy you are using requires authentic
 
 3. Enter the BlumCum folder
    ```
-   cd BlumCum
+   cd Blum-New
    ```
 
 4. Install the required modules/libraries.
