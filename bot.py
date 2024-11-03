@@ -622,8 +622,8 @@ async def main():
                 "auto_claim": True,
                 "auto_task": True,
                 "auto_game": True,
-                "low": 240,
-                "high": 250,
+                "low": 140,
+                "high": 205,
                 "clow": 30,
                 "chigh": 60,
             }
@@ -639,8 +639,8 @@ async def main():
                 auto_task=cfg.get("auto_task"),
                 auto_game=cfg.get("auto_game"),
                 auto_claim=cfg.get("auto_claim"),
-                low=int(cfg.get("low", 240)),
-                high=int(cfg.get("high", 250)),
+                low=int(cfg.get("low", 140)),
+                high=int(cfg.get("high", 205)),
                 clow=int(cfg.get("clow", 30)),
                 chigh=int(cfg.get("chigh", 60)),
             )
@@ -693,8 +693,8 @@ async def main():
             opt = None
             continue
         if opt == "4":
-            low = input(f"{green}input low game point : {white}") or 240
-            high = input(f"{green}input high game point : {white}") or 250
+            low = input(f"{green}input low game point : {white}") or 140
+            high = input(f"{green}input high game point : {white}") or 205
             cfg["low"] = low
             cfg["high"] = high
             async with aiofiles.open(config_file, "w") as w:
